@@ -1,4 +1,4 @@
-# potjera
+# Trivia Quiz
 
 ## Project setup
 ```
